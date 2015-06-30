@@ -1,8 +1,8 @@
-main.go
 main
+main.go
 chan/s1
 func/s1
 func/s2
 goroutine/s1
 goroutine/s2
-pflag/main
+pflag/pflag
